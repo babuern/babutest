@@ -1,0 +1,5 @@
+
+# netstat -a |grep 80
+#netstat -anp |grep -i jenkin
+# yum install firewalld
+# service firewalld status
